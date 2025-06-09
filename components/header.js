@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
         </div><!-- /.container -->
       </div><!-- /.header-top -->
       <nav class="navbar navbar-expand-lg sticky-navbar">
-        <div class="container">
+        <div class="container-fluid">
           <a class="navbar-brand" href="index.html">
             <img src="assets/images/logo/goodwell_logo.jpeg" class="logo-dark logo-w" alt="goodwell logo">
           </a>
@@ -77,14 +77,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 </ul>
 
               </li>
-              <li class="nav__item has-dropdown">
-                <a href="doctors-grid.html" class=" nav__item-link ">Team</a>
+              <li class="nav__item">
+                <a href="#" class=" nav__item-link ">rehabilitation Center</a>
+              </li>
+              <li class="nav__item">
+                <a href="doctors-grid.html" class=" nav__item-link ">Our Expert</a>
               </li>
 
-              <li class="nav__item has-dropdown">
+              <li class="nav__item ">
                 <a href="gallery.html" class=" nav__item-link ">Gallery</a>
               </li>
-              <li class="nav__item has-dropdown">
+              <li class="nav__item">
                 <a href="#" class=" nav__item-link ">Blog</a>
               </li>
               </li><!-- /.nav-item -->
