@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="collapse navbar-collapse" id="mainNavigation">
             <ul class="navbar-nav mx-auto">
               <li class="nav__item">
-                <a href="home-modern.html" class=" nav__item-link">Home</a>
+                <a href="index.html" class=" nav__item-link">Home</a>
               </li>
               <li class="nav__item ">
                 <a href="about-us.html" class=" nav__item-link">About Us</a>
@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <a href="rehabcare.html" class=" nav__item-link ">rehabilitation Center</a>
               </li>
               <li class="nav__item">
-                <a href="doctors-grid.html" class=" nav__item-link ">Our Expert</a>
+                <a href="our-expert.html" class=" nav__item-link ">Our Expert</a>
               </li>
 
               <li class="nav__item has-dropdown">
