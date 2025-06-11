@@ -84,12 +84,19 @@ document.addEventListener("DOMContentLoaded", () => {
                 <a href="doctors-grid.html" class=" nav__item-link ">Our Expert</a>
               </li>
 
-              <li class="nav__item ">
-                <a href="gallery.html" class=" nav__item-link ">Gallery</a>
+              <li class="nav__item has-dropdown">
+                <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link active">Resources</a>
+                <ul class="dropdown-menu">
+                  <li class="nav__item">
+                    <a href="gallery.html" class=" nav__item-link ">Gallery</a>
+                  </li>
+                  <li class="nav__item">
+                     <a href="#" class=" nav__item-link ">Blog</a>
+                  </li>
+                </ul>
               </li>
-              <li class="nav__item">
-                <a href="#" class=" nav__item-link ">Blog</a>
-              </li>
+
+         
               </li><!-- /.nav-item -->
               <li class="nav__item">
                 <a href="contact-us.html" class="nav__item-link">Contacts</a>
