@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
               </li>
               <li class="nav__item">
-                <a href="#" class=" nav__item-link ">rehabilitation Center</a>
+                <a href="rehabcare.html" class=" nav__item-link ">rehabilitation Center</a>
               </li>
               <li class="nav__item">
                 <a href="doctors-grid.html" class=" nav__item-link ">Our Expert</a>
