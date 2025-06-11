@@ -2524,7 +2524,7 @@ input[type=radio] {
 }
 .navbar .nav__item {
   position: relative;
-  margin-right: 29px;
+  margin-right: 20px;
 }
 .navbar .nav__item:last-child {
   margin-right: 0;
