@@ -122,34 +122,6 @@
   <script src="assets/js/main.js"></script>
   <!-- <script src="assets/js/form.js"></script> -->
 
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const doctorsByDept = {
-        dept1: ["Dr. Smith", "Dr. Adams"],
-        dept2: ["Dr. Emily", "Dr. John"],
-        dept3: ["Dr. Alice", "Dr. Raj"]
-      };
-
-      const deptDropdown = document.getElementById("dept-dropdown");
-      const doctorDropdown = document.getElementById("doctor-dropdown");
-
-      if (deptDropdown && doctorDropdown) {
-        deptDropdown.addEventListener("change", function () {
-          const selectedDept = this.value;
-          const doctors = doctorsByDept[selectedDept] || [];
-
-          doctorDropdown.innerHTML = '<option value="">Select Doctor</option>';
-
-          doctors.forEach(doctor => {
-            const option = document.createElement("option");
-            option.value = doctor;
-            option.textContent = doctor;
-            doctorDropdown.appendChild(option);
-          });
-        });
-      }
-    });
-  </script>
 
 
 </body>

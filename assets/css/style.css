@@ -132,6 +132,15 @@ textarea {
   resize: none;
 }
 
+/* filter image */
+.filterimg{
+   filter: brightness(0) saturate(100%)
+    /* 2. Colorize toward #1B5762 */
+    invert(64%) sepia(20%) saturate(3200%)
+    hue-rotate(182deg) brightness(95%) contrast(60%);
+    width: 60px;
+}
+
 @media (min-width: 1200px) {
   .container {
     max-width: 1200px;
@@ -6621,6 +6630,7 @@ textarea.form-control {
   background-color: #ffffff;
   box-shadow: 0px 5px 83px 0px rgba(9, 29, 62, 0.05);
   transition: all 0.4s ease;
+  height: 65vh;
 }
 .service-item:before {
   content: "";
@@ -6650,7 +6660,7 @@ textarea.form-control {
   top: 100px;
 }
 .service-item .service__title {
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 31px;
   transition: all 0.3s linear;
 }
