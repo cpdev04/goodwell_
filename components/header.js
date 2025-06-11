@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="d-flex align-items-center justify-content-between">
                 <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0">
                   <li>
-                    <i class="icon-phone"></i><a href="tel:+917829224666">Emergency Line: +917829224666</a>
+                    <i class="icon-phone"></i><a href="tel:9008049699">Emergency Line: +91 9008049699</a>
                   </li>
                   <li>
                     <i class="icon-location"></i><a href="https://maps.app.goo.gl/7StUN1Bw1AnGEM627">56-04 cavalier tower dr Bender layout opp to decathlon kothanur bengaluru 560077</a>
