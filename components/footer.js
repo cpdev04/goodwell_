@@ -19,13 +19,12 @@ document.addEventListener("DOMContentLoaded", () => {
                 <h6 class="footer-widget__title">Departments</h6>
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">Obstetrics & Gynecology</a></li>
-                    <li><a href="#">Orthopedics</a></li>
-                    <li><a href="#">Pulmonology</a></li>
-                    <li><a href="#">ENT</a></li>
-                    <li><a href="#">Dermatology</a></li>
-                    <li><a href="#">Laproscopic Surgery</a></li>
-                    <li><a href="#">Pediatric & Neonatology</a></li>
+                    <li><a href="obstetrics-gynecology.html">Obstetrics & Gynecology</a></li>
+                    <li><a href="orthopedic.html">Orthopedics</a></li>
+                    <li><a href="pulmonology.html">Pulmonology</a></li>
+                    <li><a href="ent.html">ENT</a></li>
+                    <li><a href="dermatology.html">Dermatology</a></li>
+                    <li><a href="pediatric.html">Pediatric & Neonatology</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget__content -->
