@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <i class="icon-location"></i><a href="https://maps.app.goo.gl/7StUN1Bw1AnGEM627">56-04 cavalier tower dr Bender layout opp to decathlon kothanur bengaluru 560077</a>
                   </li>
                   <li>
-                    <i class="icon-clock"></i><a href="contact-us.html">Moon - Sun: 24 X 7</a>
+                    <i class="icon-clock"></i><a href="contact-us.html">Mon - Sun: 24 X 7</a>
                   </li>
                 </ul>
                 <div class="d-flex">
@@ -23,6 +23,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     <li><a href="https://www.instagram.com/goodwell_hospital/"><i class="fab fa-instagram"></i></a></li>
                     <li><a href="https://x.com/Goodwell_112">X</a></li>
                     <li><a href="https://in.pinterest.com/digigoodwellhospital/"><i class="fab fa-pinterest"></i></a>
+                    </li>
+                    <li><a href="https://in.pinterest.com/digigoodwellhospital/"><i class="fab fa-youtube"></i></a>
                     </li>
                   </ul><!-- /.social-icons -->
 
@@ -106,7 +108,7 @@ document.addEventListener("DOMContentLoaded", () => {
           </div><!-- /.navbar-collapse -->
           <div class="d-none d-xl-flex align-items-center position-relative ml-30">
              <!-- /.miniPopup-departments -->
-            <a href="index.html" class="btn btn__primary btn__rounded ">
+            <a href="appointment.html" class="btn btn__primary btn__rounded ">
               <i class="icon-calendar"></i>
               <span>Book Appointment</span>
             </a>

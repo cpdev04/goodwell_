@@ -32,8 +32,8 @@ document.addEventListener("DOMContentLoaded", () => {
                   <p class="widget__desc">Please feel welcome to contact our friendly reception staff with any general
                     or medical enquiry call us.
                   </p>
-                  <a href="tel:+917829224666" class="phone__number">
-                    <i class="icon-phone"></i> <span>+917829224666</span>
+                  <a href="tel:9008049699" class="phone__number">
+                    <i class="icon-phone"></i> <span>+91 9008049699</span>
                   </a>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-help -->
